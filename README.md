@@ -13,6 +13,7 @@
 然后在[中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)修改README.md。
 但是现在单词必须没有空格间隔,还需要有正确的读音
 
+
 ### 下载
 [直接下载](https://fir.im/a1dw?release_id=58ba6657959d6926eb0000b3)
 
@@ -23,6 +24,7 @@
 - [花灰 iOS](https://github.com/lexrus/Huahui) 提供开发灵感
 - [花灰 Android](https://github.com/li-yu/Huahui-Android) 优化界面
 - [中国程序员容易发音错误的单词](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) 提供单词列表
+
 
 ### 开源库 ###
 - [jsoup](https://github.com/jhy/jsoup)
